@@ -35,11 +35,10 @@ Metatranscriptome analysis of human oral samples
 AI-driven design of protein complexes
 
 📫 Connect with Me
-🧪 Google Scholar
+🧪 [Google Scholar](https://scholar.google.com/citations?user=q-HHrgMAAAAJ&hl=en&oi=ao)
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/rahul-nikam-phd-12110b96/)
 
-📝 Personal Website / CV (optional)
 
 
 <!---
