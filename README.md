@@ -23,7 +23,7 @@ RNA-Seq, WGS, and microbiome analysis pipelines
 📌 Notable Projects
 🔬 Seq2Feature: Sequence-to-feature extraction tool for machine learning
 
-🔍 DeepBSRPred: Deep learning-based B-cell epitope predictor
+🔍 DeepBSRPred: Deep learning-based binding sites predictor
 
 📊 ProThermDB: Database of thermodynamic data for protein mutations
 
