@@ -32,7 +32,6 @@ Microbiome shifts across age and gender
 
 Metatranscriptome analysis of human oral samples
 
-AI-driven design of protein complexes
 
 📫 Connect with Me
 🧪 [Google Scholar](https://scholar.google.com/citations?user=q-HHrgMAAAAJ&hl=en&oi=ao)
